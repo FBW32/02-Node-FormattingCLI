@@ -1,0 +1,20 @@
+{
+  "name": "02-node-formattingcli",
+  "version": "1.0.0",
+  "description": "### Formatting CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-gee723/02-Node-FormattingCLI.git"
+  },
+  "author": "Ben Goldschmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-gee723/02-Node-FormattingCLI/issues"
+  },
+  "homepage": "https://github.com/ben-gee723/02-Node-FormattingCLI#readme"
+}

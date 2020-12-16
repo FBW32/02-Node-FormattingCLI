@@ -6,7 +6,7 @@ let capitalizeInitial = (str) => {
             +
             item.slice(1))
         .join(' ');
-    return capiltalized
+    return capiltalized;
 }
 
 module.exports = { capitalizeInitial }

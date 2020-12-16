@@ -3,7 +3,7 @@ function formatting(string) {
         .filter(item => item != '')
         .join(' ')
         .toLowerCase()
-    return (formatedStr)
+    return (formatedStr);
 
 }
 
